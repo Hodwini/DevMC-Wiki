@@ -39,7 +39,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/Hodwini/DevMCwiki/',
+            'https://github.com/Hodwini/DevMCwiki/tree/master',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
