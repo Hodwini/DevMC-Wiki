@@ -9,7 +9,7 @@ const config = {
   title: 'DevMC Wiki',
   tagline: 'Полезная информация для СНГ разработчиков Minecraft-серверов',
   url: 'https://hodwini.github.io',
-  baseUrl: '/DevMC',
+  baseUrl: '/DevMCwiki',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -39,7 +39,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/Hodwini/DevMC/',
+            'https://github.com/Hodwini/DevMCwiki/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
