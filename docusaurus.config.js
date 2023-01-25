@@ -9,16 +9,17 @@ const config = {
   title: 'DevMC Wiki',
   tagline: 'Полезная информация для СНГ разработчиков Minecraft-серверов',
   url: 'https://hodwini.github.io',
-  baseUrl: '/',
+  baseUrl: '/DevMC',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'hodwini.github.io', // Usually your GitHub org/user name.
-  projectName: 'DevMC', // Usually your repo name.
+  organizationName: 'hodwini', // Usually your GitHub org/user name.
+  projectName: 'DevMCwiki', // Usually your repo name.
   trailingSlash: false,
+  deploymentBranch: 'gh-pages',
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
