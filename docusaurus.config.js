@@ -66,7 +66,7 @@ const config = {
           },
           // {to: '/blog', label: 'Наш блог', position: 'left'},
           {
-            href: 'https://github.com/Hodwini/DevMC',
+            href: 'https://github.com/Hodwini/DevMCwiki',
             label: 'GitHub',
             position: 'right',
           },
