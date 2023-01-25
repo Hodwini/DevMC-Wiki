@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'DevMC Wiki',
   tagline: 'Полезная информация для СНГ разработчиков Minecraft-серверов',
-  url: 'https://hodwini.github.io/DevMCwiki',
+  url: 'https://hodwini.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
