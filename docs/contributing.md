@@ -13,7 +13,7 @@ sidebar_label: 'Вклад'
 
 Во-вторых, для создания данной вики используется [Docusaurus 2](https://docusaurus.io).
 
-Документация пишется на языке `md` в директории `./docs/` [нашего гитхаб репозитория](https://github.com/Hodwini/DevMCwiki/tree/master)
+Документация пишется на языке `md` в директории `./docs/` [нашего гитхаб репозитория](https://github.com/Hodwini/DevMCwiki/tree/master).
 
 ## Способы вклада
 
