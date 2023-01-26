@@ -1,5 +1,5 @@
 ---
-id: select-type
+id: theory
 title: Немного теории
 tags:
   - Теория

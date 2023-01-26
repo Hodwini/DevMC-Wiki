@@ -66,6 +66,11 @@ const config = {
           },
           // {to: '/blog', label: 'Наш блог', position: 'left'},
           {
+            href: 'https://coremc.ru',
+            label: 'Форум',
+            position: 'right',
+          },
+          {
             href: 'https://github.com/Hodwini/DevMCwiki',
             label: 'GitHub',
             position: 'right',
