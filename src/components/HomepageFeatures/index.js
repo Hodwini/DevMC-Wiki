@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/easy.svg').default,
     description: (
       <>
-        Создавать сервера просто, вас удерживает только
+        Создавать сервера просто, вас удерживают только
         ваши знания, навыки и усилия.
       </>
     ),
