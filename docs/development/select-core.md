@@ -22,4 +22,4 @@ tags:
 
 - [Paper](https://papermc.io/) - Популярное, стабильное ядро, форк Spigot. Легкий в настройке, хорошая производительность.
 - [Pufferfish](https://pufferfish.host/downloads) - Популярный стабильный форк Paper, высокая производительность, много фишек в настройке ядра.
-- [Purpur](https://purpurmc.org/) - 
+- [Purpur](https://purpurmc.org/) -
