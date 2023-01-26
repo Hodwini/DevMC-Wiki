@@ -7,7 +7,7 @@ tags:
   - Сервер
   - Тип сервера
   - Тип
-sidebar_position: 1
+sidebar_position: 2
 sidebar_label: 'Выбор жанра'
 ---
 
