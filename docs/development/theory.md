@@ -56,13 +56,13 @@ ___
 <br>**Рекомендуемые ядра**:
  - [Pufferfish](https://pufferfish.host/downloads)
  - [Purpur](https://purpurmc.org/)
- - [Mirai](https://ci.codemc.io/job/etil2jz/job/Mirai-1.19/lastStableBuild/)
+
 
 **Private** - здесь очень большой выбор и очень большой разброс версий, зависит от предпочтений, до сих пор существуют приватные сервера на версии ниже 1.7.10, но это не составит труда выделить под каждую версию ядро.
 <br>**Рекомендуемые ядра от 1.16.x до 1.19.x:**
  - [Paper](https://papermc.io/)
  - [Purpur](https://purpurmc.org/)
  - [Pufferfish](https://pufferfish.host/downloads)
- - [Mirai](https://ci.codemc.io/job/etil2jz/job/Mirai-1.19/lastStableBuild/)
+
 
  **Рекомендуемые ядра от 1.16.x до 1.12.x:**
