@@ -9,7 +9,7 @@ const config = {
   title: 'DevMC Wiki',
   tagline: 'Полезная информация для СНГ разработчиков Minecraft-серверов',
   url: 'https://hodwini.github.io',
-  baseUrl: '/DevMCwiki',
+  baseUrl: '/DevMC-Wiki',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
