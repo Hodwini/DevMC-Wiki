@@ -1,10 +1,11 @@
 ---
-id: ПоменяйМеня
-title: ПоменяйМеня
+id: linux
+title: Администрирование Linux
 tags:
-  - ПоменяйМеня
+  - Linux
+  - Администрирование Linux
 sidebar_position: 1
-sidebar_label: 'ПоменяйМеня'
+sidebar_label: 'Введение'
 ---
 
 Поменяй всё
