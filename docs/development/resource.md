@@ -31,4 +31,4 @@ sidebar_label: 'Ресурсы'
 
 ## Англоязычные Discord-севера:
 
-- [Elyctrium](https://discord.gg/zvBcN44gN5)
+- [Elytrium](https://discord.gg/zvBcN44gN5)
